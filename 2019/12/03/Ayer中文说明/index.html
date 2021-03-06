@@ -33,6 +33,7 @@
 
 </html>
 
+
 <body>
   <div id="app">
     
@@ -225,6 +226,10 @@
 <h3 id="1-图床"><a href="#1-图床" class="headerlink" title="1.图床"></a>1.图床</h3><p>推荐使用：<a target="_blank" rel="noopener" href="https://sm.ms/">SM.MS</a>，<a target="_blank" rel="noopener" href="https://www.superbed.cn/">聚合图床</a></p>
 <h3 id="2-本地图片"><a href="#2-本地图片" class="headerlink" title="2.本地图片"></a>2.本地图片</h3><p>参照 <a target="_blank" rel="noopener" href="https://hexo.io/zh-cn/docs/asset-folders">Hexo文档</a>，然后用这种方式引用图片：</p>
 <figure class="highlight md"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&#123;% asset<span class="emphasis">_img image.jpg [title] %&#125;</span></span><br></pre></td></tr></table></figure>
+
+<p><em>html引用图片</em><br>根据width and height来调整图片的大小</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;img src&#x3D;&quot;https:&#x2F;&#x2F;img.imgdb.cn&#x2F;item&#x2F;60431c61360785be54872edf&quot; width&#x3D;256 height&#x3D;256 &#x2F;&gt;</span><br></pre></td></tr></table></figure>
+
 
 <p>如果还是无法显示，请尝试在文章里用 html 的 img 标签来引用本地图片。</p>
 <h2 id="二-可以启动但是样式变形了"><a href="#二-可以启动但是样式变形了" class="headerlink" title="二.可以启动但是样式变形了"></a>二.可以启动但是样式变形了</h2><p>这很可能是因为你把博客部署到了服务器子目录，导致静态资源加载的路径不对，在此强烈建议你部署到根目录，github和码云都支持根目录部署，只要你把仓库名搞成和用户名一样就行了。</p>
@@ -477,15 +482,7 @@
     </li>
     
     <li class="nav-item">
-      <a class="nav-item-link" href="/tags/%E6%97%85%E8%A1%8C/">旅行</a>
-    </li>
-    
-    <li class="nav-item">
       <a class="nav-item-link" href="/friends">友链</a>
-    </li>
-    
-    <li class="nav-item">
-      <a class="nav-item-link" href="/events">大事记</a>
     </li>
     
     <li class="nav-item">

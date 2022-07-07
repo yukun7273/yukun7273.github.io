@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://yukun7273.github.io/events/index.html</loc>
+    <loc>https://yukun7273.github.io/aboutme/index.html</loc>
     
-    <lastmod>2022-06-29</lastmod>
+    <lastmod>2022-07-07</lastmod>
     
   </url>
   
   <url>
-    <loc>https://yukun7273.github.io/aboutme/index.html</loc>
+    <loc>https://yukun7273.github.io/events/index.html</loc>
     
     <lastmod>2022-06-29</lastmod>
     
@@ -74,7 +74,7 @@
 
   <url>
     <loc>https://yukun7273.github.io/</loc>
-    <lastmod>2022-06-29</lastmod>
+    <lastmod>2022-07-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -82,21 +82,21 @@
   
   <url>
     <loc>https://yukun7273.github.io/tags/%E6%8A%80%E6%9C%AF/</loc>
-    <lastmod>2022-06-29</lastmod>
+    <lastmod>2022-07-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://yukun7273.github.io/tags/%E6%B5%8B%E8%AF%95/</loc>
-    <lastmod>2022-06-29</lastmod>
+    <lastmod>2022-07-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://yukun7273.github.io/tags/%E6%AF%94%E8%B5%9B/</loc>
-    <lastmod>2022-06-29</lastmod>
+    <lastmod>2022-07-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -105,21 +105,21 @@
   
   <url>
     <loc>https://yukun7273.github.io/categories/%E6%8A%80%E6%9C%AF/</loc>
-    <lastmod>2022-06-29</lastmod>
+    <lastmod>2022-07-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://yukun7273.github.io/categories/%E6%B5%8B%E8%AF%95/</loc>
-    <lastmod>2022-06-29</lastmod>
+    <lastmod>2022-07-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://yukun7273.github.io/categories/%E6%AF%94%E8%B5%9B/</loc>
-    <lastmod>2022-06-29</lastmod>
+    <lastmod>2022-07-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
